@@ -5,6 +5,7 @@ const misDatos = {
     'nombre': 'Gabriel',
     'edad': 36,
     'desarrollador': true,
-    'fechaNac': new Date(1986, 4, 31)
+    'fechaNac': new Date(1986, 4, 31),
+    'libroFavorito': 'El Señor de los Anillos'
 }
 console.log(misDatos.fechaNac)
